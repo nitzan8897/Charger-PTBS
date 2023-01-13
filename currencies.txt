@@ -1,3 +1,4 @@
 Shekel , 1
 Dollar , 4
 Euro , 5
+Pound , 5.5

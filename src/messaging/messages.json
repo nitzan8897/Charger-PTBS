@@ -1,0 +1,6 @@
+{
+    "Errors": {
+        "readFile": "Couldnt read file",
+        "txtFileFormat": "TXT file is not formatted."
+    }
+}

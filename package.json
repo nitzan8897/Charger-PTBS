@@ -4,7 +4,8 @@
   "description": "ts-basic ",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "npm run build && node dist/index.js"
   },
   "repository": {
     "type": "git",

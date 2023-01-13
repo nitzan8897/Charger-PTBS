@@ -1,4 +1,4 @@
 export interface Currency {
   CoinName: string;
-  Value: Number;
+  MultiplayerValue: Number;
 }
