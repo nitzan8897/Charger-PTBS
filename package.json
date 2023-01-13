@@ -1,0 +1,25 @@
+{
+  "name": "charger",
+  "version": "1.0.0",
+  "description": "ts-basic ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitzan8897/Charger-PTBS.git"
+  },
+  "author": "Bamas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitzan8897/Charger-PTBS/issues"
+  },
+  "homepage": "https://github.com/nitzan8897/Charger-PTBS#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
